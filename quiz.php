@@ -317,23 +317,23 @@
              <h3>Name the seventh planet from the sun?</h3>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Pluto</label>
+                 <input type="radio" name="question-12-answers" id="question-12-answers-A" value="A" />
+                 <label for="question-12-answers-A">A) Pluto</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Uranus</label>
+                 <input type="radio" name="question-12-answers" id="question-12-answers-B" value="B" />
+                 <label for="question-12-answers-B">B) Uranus</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Venus</label>
+                 <input type="radio" name="question-12-answers" id="question-12-answers-C" value="C" />
+                 <label for="question-12-answers-C">C) Venus</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Neptune </label>
+                 <input type="radio" name="question-12-answers" id="question-12-answers-D" value="D" />
+                 <label for="question-12-answers-D">D) Neptune </label>
              </div>
         <li>
              <h3>What team does Messi play for?</h3>
