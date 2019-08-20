@@ -295,23 +295,23 @@
              <h3>What planet are we on</h3>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Venus</label>
+                 <input type="radio" name="question-11-answers" id="question-11-answers-A" value="A" />
+                 <label for="question-11-answers-A">A) Venus</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Pluto</label>
+                 <input type="radio" name="question-11-answers" id="question-11-answers-B" value="B" />
+                 <label for="question-11-answers-B">B) Pluto</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Mars</label>
+                 <input type="radio" name="question-11-answers" id="question-11-answers-C" value="C" />
+                 <label for="question-11-answers-C">C) Mars</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Earth </label>
+                 <input type="radio" name="question-11-answers" id="question-11-answers-D" value="D" />
+                 <label for="question-11-answers-D">D) Earth </label>
              </div>
       <li>
              <h3>Name the seventh planet from the sun?</h3>
