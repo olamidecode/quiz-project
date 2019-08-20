@@ -468,23 +468,23 @@
                     <h3>Which Avenger (besides Thor) is worthy enough to lift Thors hammer?</h3>
                     
                     <div>
-                        <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" />
-                        <label for="question-2-answers-A">A) Black Panther</label>
+                        <input type="radio" name="question-18-answers" id="question-18-answers-A" value="A" />
+                        <label for="question-18-answers-A">A) Black Panther</label>
                     </div>
                     
                     <div>
-                        <input type="radio" name="question-2-answers" id="question-2-answers-B" value="B" />
-                        <label for="question-2-answers-B">B) Hulk</label>
+                        <input type="radio" name="question-18-answers" id="question-18-answers-B" value="B" />
+                        <label for="question-18-answers-B">B) Hulk</label>
                     </div>
                     
                     <div>
-                        <input type="radio" name="question-2-answers" id="question-2-answers-C" value="C" />
-                        <label for="question-2-answers-C">C) Ant-Man</label>
+                        <input type="radio" name="question-18-answers" id="question-18-answers-C" value="C" />
+                        <label for="question-18-answers-C">C) Ant-Man</label>
                     </div>
                     
                     <div>
-                        <input type="radio" name="question-2-answers" id="question-2-answers-D" value="D" />
-                        <label for="question-2-answers-D">D) Captain America</label>
+                        <input type="radio" name="question-18-answers" id="question-18-answers-D" value="D" />
+                        <label for="question-18-answers-D">D) Captain America</label>
                     </div>
                 
                 </li>
