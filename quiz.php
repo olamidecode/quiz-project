@@ -273,21 +273,47 @@
              </div>
              
              <div>
-                 <input type="radio" name="question-10-answers" id="question-10-answers-B" value="B" />
+                 <input type="radio" name="question-9-answers" id="question-9-answers-B" value="B" />
                  <label for="question-10-answers-B">B)  A spider</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-10-answers" id="question-10-answers-C" value="C" />
+                 <input type="radio" name="question-9-answers" id="question-9-answers-C" value="C" />
                  <label for="question-10-answers-C">C) Other</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-10-answers" id="question-10-answers-D" value="D" />
+                 <input type="radio" name="question-9-answers" id="question-9-answers-D" value="D" />
                  <label for="question-10-answers-D">D) Web gun</label>
              </div>
          
          </li>
+
+         <li>
+            
+            <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
+            
+            <div>
+                <input type="radio" name="question-10-answers" id="question-10-answers-A" value="A" />
+                <label for="question-10-answers-A">A) Captain America</label>
+            </div>
+            
+            <div>
+                <input type="radio" name="question-10-answers" id="question-10-answers-B" value="B" />
+                <label for="question-10-answers-B">B) Black-widow</label>
+            </div>
+            
+            <div>
+                <input type="radio" name="question-10-answers" id="question-10-answers-C" value="C" />
+                <label for="question-10-answers-C">C) Spider-man</label>
+            </div>
+            
+            <div>
+                <input type="radio" name="question-10-answers" id="question-10-answers-D" value="D" />
+                <label for="question-10-answers-D">D) Iron-man</label>
+            </div>
+        
+        </li>
 
 
          <li>
@@ -520,52 +546,28 @@
                 <h3>What is the Hulks real name ?</h3>
                 
                 <div>
-                    <input type="radio" name="question-4-answers" id="question-4-answers-A" value="A" />
-                    <label for="question-4-answers-A">A) Bruce Wayne</label>
+                    <input type="radio" name="question-20-answers" id="question-20-answers-A" value="A" />
+                    <label for="question-20-answers-A">A) Bruce Wayne</label>
                 </div>
                 
                 <div>
-                    <input type="radio" name="question-4-answers" id="question-4-answers-B" value="B" />
-                    <label for="question-4-answers-B">B) Bruce Banner</label>
+                    <input type="radio" name="question-20-answers" id="question-20-answers-B" value="B" />
+                    <label for="question-20-answers-B">B) Bruce Banner</label>
                 </div>
                 
                 <div>
-                    <input type="radio" name="question-4-answers" id="question-4-answers-C" value="C" />
-                    <label for="question-4-answers-C">C) Bruce Lee</label>
+                    <input type="radio" name="question-20-answers" id="question-20-answers-C" value="C" />
+                    <label for="question-20-answers-C">C) Bruce Lee</label>
                 </div>
                 
                 <div>
-                    <input type="radio" name="question-4-answers" id="question-4-answers-D" value="D" />
-                    <label for="question-4-answers-D">D) Bruce Willis</label>
+                    <input type="radio" name="question-20-answers" id="question-20-answers-D" value="D" />
+                    <label for="question-20-answers-D">D) Bruce Willis</label>
                 </div>
             
             </li>
             
-            <li>
-            
-                <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
-                
-                <div>
-                    <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                    <label for="question-5-answers-A">A) Captain America</label>
-                </div>
-                
-                <div>
-                    <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                    <label for="question-5-answers-B">B) Black-widow</label>
-                </div>
-                
-                <div>
-                    <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                    <label for="question-5-answers-C">C) Spider-man</label>
-                </div>
-                
-                <div>
-                    <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                    <label for="question-5-answers-D">D) Iron-man</label>
-                </div>
-            
-            </li>
+           
 
          
          </li>
