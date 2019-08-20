@@ -190,23 +190,23 @@
              <h3>What chess piece can you move diagonally?</h3>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Pawn</label>
+                 <input type="radio" name="question-6-answers" id="question-6-answers-A" value="A" />
+                 <label for="question-6-answers-A">A) Pawn</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Castle</label>
+                 <input type="radio" name="question-6-answers" id="question-6-answers-B" value="B" />
+                 <label for="question-6-answers-B">B) Castle</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Knight</label>
+                 <input type="radio" name="question-6-answers" id="question-6-answers-C" value="C" />
+                 <label for="question-6-answers-C">C) Knight</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Bishop</label>
+                 <input type="radio" name="question-6-answers" id="question-6-answers-D" value="D" />
+                 <label for="question-6-answers-D">D) Bishop</label>
              </div>
          
          </li>
@@ -216,23 +216,23 @@
              <h3>What is the diameter of Earth?</h3>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) 20,000 miles</label>
+                 <input type="radio" name="question-7-answers" id="question-7-answers-A" value="A" />
+                 <label for="question-7-answers-A">A) 20,000 miles</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) 11,000 miles</label>
+                 <input type="radio" name="question-7-answers" id="question-7-answers-B" value="B" />
+                 <label for="question-7-answers-B">B) 11,000 miles</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) 9,000 miles</label>
+                 <input type="radio" name="question-7-answers" id="question-7-answers-C" value="C" />
+                 <label for="question-7-answers-C">C) 9,000 miles</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) 8,000 miles</label>
+                 <input type="radio" name="question-7-answers" id="question-7-answers-D" value="D" />
+                 <label for="question-7-answers-D">D) 8,000 miles</label>
              </div>
          
          </li>
@@ -242,23 +242,23 @@
              <h3>What is the capital city of Spain?</h3>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Barcelona</label>
+                 <input type="radio" name="question-8-answers" id="question-8-answers-A" value="A" />
+                 <label for="question-8-answers-A">A) Barcelona</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Cape Town</label>
+                 <input type="radio" name="question-8-answers" id="question-8-answers-B" value="B" />
+                 <label for="question-8-answers-B">B) Cape Town</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Celta</label>
+                 <input type="radio" name="question-8-answers" id="question-8-answers-C" value="C" />
+                 <label for="question-8-answers-C">C) Celta</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Madrid</label>
+                 <input type="radio" name="question-8-answers" id="question-8-answers-D" value="D" />
+                 <label for="question-8-answers-D">D) Madrid</label>
              </div>
          
          </li>
@@ -386,6 +386,190 @@
           
          
          </li>
+
+         <li>
+             
+             <h3>Which is the largest desert on earth?</h3>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
+                 <label for="question-5-answers-A">A) Sonoran</label>
+             </div>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
+                 <label for="question-5-answers-B">B)  Sahara</label>
+             </div>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
+                 <label for="question-5-answers-C">C) Kalahari</label>
+             </div>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
+                 <label for="question-5-answers-D">D) Arabian</label>
+             </div>
+         
+         </li>
+
+         <li>
+             
+             <h3> What is the second largest country in Europe after Russia? </h3>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
+                 <label for="question-5-answers-A">A) France</label>
+             </div>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
+                 <label for="question-5-answers-B">B)  Spain</label>
+             </div>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
+                 <label for="question-5-answers-C">C) Italy</label>
+             </div>
+             
+             <div>
+                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
+                 <label for="question-5-answers-D">D) UK</label>
+             </div>
+
+             <li>
+                
+                    <h3>Tony stark (Iron-man) "stars" in which movie ?</h3>
+                    
+                    <div>
+                        <input type="radio" name="question-1-answers" id="question-1-answers-A" value="A" />
+                        <label for="question-1-answers-A">A) Titanic </label>
+                    </div>
+                    
+                    <div>
+                        <input type="radio" name="question-1-answers" id="question-1-answers-B" value="B" />
+                        <label for="question-1-answers-B">B) Avengers</label>
+                    </div>
+                    
+                    <div>
+                        <input type="radio" name="question-1-answers" id="question-1-answers-C" value="C" />
+                        <label for="question-1-answers-C">C) Iron-man</label>
+                    </div>
+                    
+                    <div>
+                        <input type="radio" name="question-1-answers" id="question-1-answers-D" value="D" />
+                        <label for="question-1-answers-D">D) Lion King</label>
+                    </div>
+                
+                </li>
+                
+                <li>
+                
+                    <h3>Which Avenger (besides Thor) is worthy enough to lift Thors hammer?</h3>
+                    
+                    <div>
+                        <input type="radio" name="question-2-answers" id="question-2-answers-A" value="A" />
+                        <label for="question-2-answers-A">A) Black Panther</label>
+                    </div>
+                    
+                    <div>
+                        <input type="radio" name="question-2-answers" id="question-2-answers-B" value="B" />
+                        <label for="question-2-answers-B">B) Hulk</label>
+                    </div>
+                    
+                    <div>
+                        <input type="radio" name="question-2-answers" id="question-2-answers-C" value="C" />
+                        <label for="question-2-answers-C">C) Ant-Man</label>
+                    </div>
+                    
+                    <div>
+                        <input type="radio" name="question-2-answers" id="question-2-answers-D" value="D" />
+                        <label for="question-2-answers-D">D) Captain America</label>
+                    </div>
+                
+                </li>
+
+                <li>
+                
+                <h3>Which one of these is not an infinity stone?</h3>
+                
+                <div>
+                    <input type="radio" name="question-3-answers" id="question-3-answers-A" value="A" />
+                    <label for="question-3-answers-A">A) Speed</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-3-answers" id="question-3-answers-B" value="B" />
+                    <label for="question-3-answers-B">B) Time</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-3-answers" id="question-3-answers-C" value="C" />
+                    <label for="question-3-answers-C">C) Mind</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-3-answers" id="question-3-answers-D" value="D" />
+                    <label for="question-3-answers-D">D) Power</label>
+                </div>
+            
+            </li>
+            
+            <li>
+            
+                <h3>What is the Hulks real name ?</h3>
+                
+                <div>
+                    <input type="radio" name="question-4-answers" id="question-4-answers-A" value="A" />
+                    <label for="question-4-answers-A">A) Bruce Wayne</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-4-answers" id="question-4-answers-B" value="B" />
+                    <label for="question-4-answers-B">B) Bruce Banner</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-4-answers" id="question-4-answers-C" value="C" />
+                    <label for="question-4-answers-C">C) Bruce Lee</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-4-answers" id="question-4-answers-D" value="D" />
+                    <label for="question-4-answers-D">D) Bruce Willis</label>
+                </div>
+            
+            </li>
+            
+            <li>
+            
+                <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
+                
+                <div>
+                    <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
+                    <label for="question-5-answers-A">A) Captain America</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
+                    <label for="question-5-answers-B">B) Black-widow</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
+                    <label for="question-5-answers-C">C) Spider-man</label>
+                </div>
+                
+                <div>
+                    <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
+                    <label for="question-5-answers-D">D) Iron-man</label>
+                </div>
+            
+            </li>
+
+         
+         </li>
+         
          
          
          </ol>
