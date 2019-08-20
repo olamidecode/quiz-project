@@ -494,23 +494,23 @@
                 <h3>Which one of these is not an infinity stone?</h3>
                 
                 <div>
-                    <input type="radio" name="question-3-answers" id="question-3-answers-A" value="A" />
-                    <label for="question-3-answers-A">A) Speed</label>
+                    <input type="radio" name="question-19-answers" id="question-19-answers-A" value="A" />
+                    <label for="question-19-answers-A">A) Speed</label>
                 </div>
                 
                 <div>
-                    <input type="radio" name="question-3-answers" id="question-3-answers-B" value="B" />
-                    <label for="question-3-answers-B">B) Time</label>
+                    <input type="radio" name="question-19-answers" id="question-19-answers-B" value="B" />
+                    <label for="question-19-answers-B">B) Time</label>
                 </div>
                 
                 <div>
-                    <input type="radio" name="question-3-answers" id="question-3-answers-C" value="C" />
-                    <label for="question-3-answers-C">C) Mind</label>
+                    <input type="radio" name="question-19-answers" id="question-19-answers-C" value="C" />
+                    <label for="question-19-answers-C">C) Mind</label>
                 </div>
                 
                 <div>
-                    <input type="radio" name="question-3-answers" id="question-3-answers-D" value="D" />
-                    <label for="question-3-answers-D">D) Power</label>
+                    <input type="radio" name="question-19-answers" id="question-19-answers-D" value="D" />
+                    <label for="question-19-answers-D">D) Power</label>
                 </div>
             
             </li>
