@@ -268,23 +268,23 @@
              <h3>How does spider man use his webs?</h3>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Web slinger</label>
+                 <input type="radio" name="question-9-answers" id="question-9-answers-A" value="A" />
+                 <label for="question-9-answers-A">A) Web slinger</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B)  A spider</label>
+                 <input type="radio" name="question-10-answers" id="question-10-answers-B" value="B" />
+                 <label for="question-10-answers-B">B)  A spider</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Other</label>
+                 <input type="radio" name="question-10-answers" id="question-10-answers-C" value="C" />
+                 <label for="question-10-answers-C">C) Other</label>
              </div>
              
              <div>
-                 <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Web gun</label>
+                 <input type="radio" name="question-10-answers" id="question-10-answers-D" value="D" />
+                 <label for="question-10-answers-D">D) Web gun</label>
              </div>
          
          </li>
