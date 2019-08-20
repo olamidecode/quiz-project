@@ -187,104 +187,104 @@
 
              <li>
              
-             <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
+             <h3>What chess piece can you move diagonally?</h3>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Captain America</label>
+                 <label for="question-5-answers-A">A) Pawn</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Black-widow</label>
+                 <label for="question-5-answers-B">B) Castle</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Spider-man</label>
+                 <label for="question-5-answers-C">C) Knight</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Iron-man</label>
+                 <label for="question-5-answers-D">D) Bishop</label>
              </div>
          
          </li>
 
          <li>
              
-             <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
+             <h3>What is the diameter of Earth?</h3>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Captain America</label>
+                 <label for="question-5-answers-A">A) 20,000 miles</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Black-widow</label>
+                 <label for="question-5-answers-B">B) 11,000 miles</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Spider-man</label>
+                 <label for="question-5-answers-C">C) 9,000 miles</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Iron-man</label>
+                 <label for="question-5-answers-D">D) 8,000 miles</label>
              </div>
          
          </li>
 
          <li>
              
-             <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
+             <h3>What is the capital city of Spain?</h3>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Captain America</label>
+                 <label for="question-5-answers-A">A) Barcelona</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Black-widow</label>
+                 <label for="question-5-answers-B">B) Cape Town</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Spider-man</label>
+                 <label for="question-5-answers-C">C) Celta</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Iron-man</label>
+                 <label for="question-5-answers-D">D) Madrid</label>
              </div>
          
          </li>
 
          <li>
              
-             <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
+             <h3>How does spider man use his webs?</h3>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Captain America</label>
+                 <label for="question-5-answers-A">A) Web slinger</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Black-widow</label>
+                 <label for="question-5-answers-B">B)  A spider</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Spider-man</label>
+                 <label for="question-5-answers-C">C) Other</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Iron-man</label>
+                 <label for="question-5-answers-D">D) Web gun</label>
              </div>
          
          </li>
@@ -292,26 +292,26 @@
 
          <li>
              
-             <h3>Who`s parents did Bucki (The winter shoulder) kill ?</h3>
+             <h3>What planet are we on</h3>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-A" value="A" />
-                 <label for="question-5-answers-A">A) Captain America</label>
+                 <label for="question-5-answers-A">A) Venus</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-B" value="B" />
-                 <label for="question-5-answers-B">B) Black-widow</label>
+                 <label for="question-5-answers-B">B) Pluto</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-C" value="C" />
-                 <label for="question-5-answers-C">C) Spider-man</label>
+                 <label for="question-5-answers-C">C) Mars</label>
              </div>
              
              <div>
                  <input type="radio" name="question-5-answers" id="question-5-answers-D" value="D" />
-                 <label for="question-5-answers-D">D) Iron-man</label>
+                 <label for="question-5-answers-D">D) Earth </label>
              </div>
          
          </li>
