@@ -1,144 +1,55 @@
 
-html{
-	scroll-behavior: smooth;
+  body {
+    height: 100%;
+    background-image: linear-gradient(hsl(10,90,66), transparent 70%);
+    background-size: 100% 100%;
+    mix-blend-mode: difference;
+    font: 14px Georgia, serif;
+    color: black;
+    }
+ 
+#page-wrap { width: 500px; margin: 0 auto;}
+ 
+h1  { margin: 25px 0; font: 25px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+
+h3  { margin: 25px 0; font: 20px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+ 
+#quiz input {
+    vertical-align: middle;
 }
-p{
-    margin-top: 0;
-    margin-bottom: 1rem;
-    color: white;
-    text-align: center;
+ 
+#quiz ol {
+   margin: 0 0 10px 20px;
 }
-.text-right {
-    text-align: left;
-    padding-left: 62%;
+ 
+#quiz ol li {
+   margin: 0 0 20px 0;
 }
-.pre-header {
-	width: 100%;
-    background-color:#333;
-    margin-bottom: 10px;
-	  
+ 
+#quiz ol li div {
+   padding: 4px 0;
 }
-.pre-header .container {
-	display: flex;
+ 
+#quiz h3 {
+   font-size: 17px; margin: 0 0 1px 0; color: black;
 }
-/* nav-bar styling */
-/* nav bar style */
-.topnav {
-    overflow: hidden;
+ 
+#results {
+    font: 44px Georgia, Serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+html {
+    height: 2000px;
+    background-color: red;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg);
+    background-size: 100% auto;
+    background-position: top center;
     background-attachment: fixed;
-    text-align: center;
-    background-color:#333; 
-   }
-   .topnav a {
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    display: inline;
-    font-family: 'Dosis', sans-serif;
-   }
-   /*
-   .topnav a:hover {
-   } */
-   .topnav a.active {
-    width: 36px;
-    height: 11px;
-    font-family: 'Dosis', sans-serif;
-    font-size: 15px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 0.75px;
-    text-align: left;
-    color: white;
-    padding-right:54px;
-   }
-   .topnav a.active1{
-    width: 34px;
-    height: 11px;
-    font-family: 'Dosis', sans-serif;
-    font-size: 15px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 0.75px;
-    text-align: left;
-    color: white;
-    padding-right:55px;
-   }
-   .topnav a.active2{
-    width: 44px;
-    height: 11px;
-    font-family: 'Dosis', sans-serif;
-    font-size: 15px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 0.75px;
-    text-align: left;
-    color: white;
-    padding-right:50px;
-   }
-   .topnav a.active3{
-    width: 117px;
-    height: 21px;
-    font-family: 'Dosis', sans-serif;
-    font-size: 30px;
-    font-weight: 600;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 1.5px;
-    text-align: left;
-    color: white;
-	padding-right:48px;
-	padding-bottom: 80px;
-   }
-   .topnav a.active4{
-    width: 32px;
-    height: 11px;
-    font-family: 'Dosis', sans-serif;
-    font-size: 15px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 0.75px;
-    text-align: left;
-    color: white;
-    padding-right:53px;
-   }
-   .topnav a.active5{
-    width: 66px;
-    height: 11px;
-    font-family: 'Dosis', sans-serif;
-    font-size: 15px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 0.75px;
-    text-align: left;
-    color:white;
-    padding-right:49px;
-   }
-   .topnav a.active6{
-    width: 77px;
-    height: 11px;
-    font-family: 'Dosis', sans-serif;
-    font-size: 15px;
-    font-weight: normal;
-    font-style: normal;
-    font-stretch: normal;
-    line-height: normal;
-    letter-spacing: 0.75px;
-    text-align: left;
-    color: white;
-   }
-   /* end of nav styling */
-   .intro{
-       color: black;
-       text-align: center;
-}
+    }
+
