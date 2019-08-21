@@ -4,15 +4,15 @@
     background-image: linear-gradient(hsl(10,90,66), transparent 70%);
     background-size: 100% 100%;
     mix-blend-mode: difference;
-    font: 14px Georgia, serif;
+    font-family: 'Abril Fatface', cursive;
     color: black;
     }
  
 #page-wrap { width: 500px; margin: 0 auto;}
  
-h1  { margin: 25px 0; font: 25px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+h1  { margin: 25px 0; font: 35px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
 
-h3  { margin: 25px 0; font: 20px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+h3  { margin: 25px 0; font: 29px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
  
 #quiz input {
     vertical-align: middle;
@@ -51,5 +51,14 @@ html {
     background-size: 100% auto;
     background-position: top center;
     background-attachment: fixed;
+    }
+
+    input[type=submit] {
+        padding:5px 15px; 
+        background: whitesmoke; 
+        border:0 none;
+        cursor:pointer;
+        -webkit-border-radius: 9px;
+        border-radius: 10px; 
     }
 

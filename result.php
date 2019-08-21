@@ -5,7 +5,8 @@
 <head>
 	<meta charset="UTF-8" />
 	
-	<title>PHP Quiz</title>
+    <title>PHP Quiz</title>
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
 	
     <link rel='stylesheet' type='text/css' href='css/style.css'>
 </head>
@@ -63,7 +64,13 @@
             if ($answer20 == "B") { $totalCorrect++; }
             
             echo "<div id='results'>$totalCorrect / 20 correct</div>";
-            
+            if ($totalCorrect< "10") {
+                echo "Try harder!";
+            } elseif ($totalCorrect == "20") {
+                echo "You got every thing right you are a star!";
+            } else {
+                echo "Have a good night!";
+            }
         ?>
 	
 	</div>
