@@ -73,8 +73,16 @@
             }
         ?>
 	
-	</div>
+    </div>
+    <button onclick="goBack()">Go Back</button>
+
  
 </body>
+<script>
+function goBack() {
+window.history.back();
+
+}
+</script>
  
 </html>

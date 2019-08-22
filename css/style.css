@@ -47,11 +47,13 @@ h3  { margin: 25px 0; font: 29px Georgia, Serif; text-transform: uppercase; lett
 html {
     height: 2000px;
     background-color: red;
-    background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg);
+    background-image: url("background.jpg");
     background-size: 100% auto;
     background-position: top center;
     background-attachment: fixed;
+    
     }
+   
 
     input[type=submit] {
         padding:5px 15px; 
@@ -61,4 +63,17 @@ html {
         -webkit-border-radius: 9px;
         border-radius: 10px; 
     }
+    
+    @media screen and (max-width: 800px) {
+        .topnav a:not(.active3) {display: none;}
+        .topnav a.icon {
+          float: right;
+          position: relative;
+          margin: auto;
+          display: block;
+          transition: 0.8s;
+          padding-top: -15px;
+        }
+    }
 
+    
